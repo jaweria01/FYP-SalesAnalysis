@@ -24,6 +24,11 @@ Built with Streamlit + Plotly, the dashboard is designed for data-driven decisio
 
 🔗 **Live Demo**: [Superstore Sales Dashboard](https://fyp-salesanalysis-01.streamlit.app/)
 
+<img width="1359" height="608" alt="Project_Sales" src="https://github.com/user-attachments/assets/acd8a6e5-eb38-43ba-b840-99454a21f25a" />
+
+<img width="1057" height="543" alt="Project_Graph" src="https://github.com/user-attachments/assets/a1991fb4-963c-424a-9e99-3f630e579c5b" />
+
+
 ---
 ### 🎯 Features
 
