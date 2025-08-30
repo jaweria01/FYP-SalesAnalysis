@@ -59,11 +59,13 @@ Built with Streamlit + Plotly, the dashboard is designed for data-driven decisio
 ---
 ## 🛠 Tech Stack
 
-- Frontend / Dashboard: Streamlit
-- Visualization: Plotly Express, Matplotlib
-- Data Handling: Pandas, NumPy
-- Statistical Analysis: SciPy
-- Other: Python 3.9+, Jupyter Notebook (for development)
+- **Programming Language:** Python 3.9+
+- **Data Handling & Processing:** Pandas, NumPy
+- **Statistical Analysis:** SciPy (outlier detection: Z-score & IQR)
+- **Visualization:** Plotly Express (interactive charts), Matplotlib
+- **Dashboard / UI:** Streamlit (for building the interactive web app)
+- **Deployment:** Streamlit Community Cloud (to host & share the live dashboard)
+- **Version Control & Collaboration:** Git & GitHub
 
 ---
 
